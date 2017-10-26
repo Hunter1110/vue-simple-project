@@ -1,6 +1,5 @@
-# vue-instroduction
-
-> A Vue.js project
+# vue-simple-project
+> A Vue.js simple project
 
 ## Build Setup
 
